@@ -1,10 +1,107 @@
-# 💫 About Me:
-Habiba Ebrahim<br>DATA ANALYST  ·  PYTHON  ·  SQL  ·  POWER BI  ·  EXCEL<br>I turn sales, customer and operations data into <br>analysis and dashboards that show where <br>performance slips, and what to do about it.<br>WHAT I SPECIALIZE IN<br>Sales performance<br>PROBLEMS I HELP SOLVE<br>Customer churn<br>Supply chain & delivery<br>Where does delivery performance become an operational problem?<br>Who is leaving, and where does retention risk concentrate?<br>How are sales, products and branches performing against target?<br>WHAT I DELIVER FOR A CLIENT<br>Clean, structured data<br>Validated and prepared so the analysis can be trusted.<br>Evidence-led analysis<br>Trends, segments, drivers and gaps tied to the business <br>question.<br>Readable KPIs & dashboards<br>Power BI, Excel and Plotly Dash views that are easy to <br>scan.<br>A clear next step<br>Findings framed around the decision they support
+<div align="center">
 
+<!-- OPTIONAL BANNER: upload a 1280x320 image to the repo (e.g. assets/banner.png) and uncomment:
+<img src="assets/banner.png" alt="Habiba Ebrahim - Data Analyst" width="100%">
+-->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/habiba-ebrahim-47a894305) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ehabiba145@gmail.com) 
+# Habiba Ebrahim
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**Data Analyst** · Python · SQL · Power BI · Excel
+
+*I find where orders run late, customers leave, and sales miss target.*
+
+[LinkedIn](YOUR-LINKEDIN-URL) · [Portfolio](YOUR-PORTFOLIO-URL) · [Email](mailto:YOUR-EMAIL@gmail.com)
+
+</div>
+
+---
+
+## About
+
+I turn sales, customer and operations data into analysis and dashboards that show where performance slips, and what to do about it. My work follows one workflow: clean and validate the data, analyze it against a business question, visualize it, and state the finding clearly.
+
+I studied Business Information Systems at the Faculty of Commerce, Tanta University.
+
+**Focus areas:** Sales performance · Customer churn · Supply chain & delivery
+
+---
+
+## Toolkit
+
+**Analysis**<br>
+![Python](https://img.shields.io/badge/Python-A8684A?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-A8684A?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-A8684A?style=flat-square&logo=numpy&logoColor=white)
+
+**Databases**<br>
+![SQL](https://img.shields.io/badge/SQL-A8684A?style=flat-square)
+
+**BI & Dashboards**<br>
+![Power BI](https://img.shields.io/badge/Power_BI-A8684A?style=flat-square&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-A8684A?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-A8684A?style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-A8684A?style=flat-square)
+
+**Visualization**<br>
+![Plotly](https://img.shields.io/badge/Plotly_Dash-A8684A?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-A8684A?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-A8684A?style=flat-square)
+
+**Data Collection**<br>
+![Web Scraping](https://img.shields.io/badge/BeautifulSoup_%C2%B7_Requests-A8684A?style=flat-square)
+
+---
+
+## Featured Projects
+
+### Supply Chain Analytics
+*Where delivery performance becomes a measurable operational problem.*
+
+- **Data:** DataCo supply chain dataset, 180,000+ records (65K+ unique orders) covering sales, profit, shipping and delivery status.
+- **Approach:** Cleaned the data, ran EDA and sales and profit analysis, then built an interactive Plotly Dash dashboard.
+- **Result:** A **54.8% late-delivery rate** across **65,752 orders** ($36.78M sales, $3.97M profit), presented in a four-tab dashboard.
+- **Tools:** Python · Plotly Dash · EDA
+- **Links:** [Repository](https://github.com/YOUR-USERNAME/SUPPLY-CHAIN-REPO) · [Live dashboard](YOUR-DASHBOARD-URL) <!-- delete "Live dashboard" if none -->
+
+### Customer Churn Analysis
+*Who is leaving, what patterns accompany churn, and where retention risk concentrates.*
+
+- **Data:** Telecom customer dataset of 7,032 customers (contract type, payment method, revenue, lifetime value, churn status).
+- **Approach:** Exploratory analysis in Python and Pandas, segmenting churn by contract, payment method, reason and city.
+- **Result:** **22.3% churn rate**, **$2.48M lost revenue (CLTV)**, **12.7% high-risk customers**. Month-to-month contracts churn most (42.7%).
+- **Tools:** Python · Pandas · EDA
+- **Link:** [Repository](https://github.com/YOUR-USERNAME/CHURN-REPO)
+
+### Sales Insights & Performance Analytics
+*A Power BI reporting system for sales, products, customers, branches and team performance.*
+
+- **Data:** 2024–2025 sales data across branches, product categories, customers and sales team targets.
+- **Approach:** Prepared data in Power Query, built DAX measures and four interactive report pages.
+- **Result:** An executive view of **82.62M net sales**, **12.73M profit**, **15.41% margin** and **4.32K orders**, with pages for products, branches and team performance.
+- **Tools:** Power BI · DAX · Power Query
+- **Link:** [Repository](https://github.com/YOUR-USERNAME/SALES-INSIGHTS-REPO)
+
+---
+
+## More Projects
+
+| Project | Focus | Tools | Link |
+|---|---|---|---|
+| Excel Sales Performance | Sales vs. target dashboard across years, countries and product categories | Excel · Power Query | [Repository](https://github.com/YOUR-USERNAME/EXCEL-SALES-REPO) |
+| IMDb Top 250 Analysis | Web-scraped movie data explored to answer analytical questions | Python · BeautifulSoup · Pandas · Matplotlib | [Repository](https://github.com/YOUR-USERNAME/IMDB-REPO) |
+| Credit Card Default EDA | Exploratory analysis of patterns related to default behavior | Python · Pandas | Repository coming soon |
+
+---
+
+## Training & Continuous Learning
+
+Data engineering training · Python & data analysis · SQL · Power BI · Excel · Machine learning fundamentals
+
+---
+
+## Get in Touch
+
+Have a dataset, a reporting problem, or a business question? I can help turn the data into an analysis or dashboard that makes the next decision easier to see.
+
+[LinkedIn](YOUR-LINKEDIN-URL) · [Portfolio](YOUR-PORTFOLIO-URL) · [Email](mailto:YOUR-EMAIL@gmail.com)
 
