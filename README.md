@@ -1,107 +1,220 @@
+
 <div align="center">
 
-<!-- OPTIONAL BANNER: upload a 1280x320 image to the repo (e.g. assets/banner.png) and uncomment:
-<img src="assets/banner.png" alt="Habiba Ebrahim - Data Analyst" width="100%">
--->
+# 👋 Hi, I'm Habiba Ebrahim
 
-# Habiba Ebrahim
+### 📊 Data Analyst | ⚙️ Aspiring Data Engineer
 
-**Data Analyst** · Python · SQL · Power BI · Excel
+**Python · SQL · Power BI · ETL · Data Pipelines**
 
-*I find where orders run late, customers leave, and sales miss target.*
+*Turning raw data into meaningful insights and building reliable data workflows.*
 
-[LinkedIn](YOUR-LINKEDIN-URL) · [Portfolio](YOUR-PORTFOLIO-URL) · [Email](mailto:YOUR-EMAIL@gmail.com)
+<br>
+
+<a href="YOUR-LINKEDIN-URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="YOUR-PORTFOLIO-URL">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:YOUR-EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 ---
 
-## About
+## 🌟 About Me
 
-I turn sales, customer and operations data into analysis and dashboards that show where performance slips, and what to do about it. My work follows one workflow: clean and validate the data, analyze it against a business question, visualize it, and state the finding clearly.
+I'm a Data Analyst developing my skills in Data Engineering, with an interest in turning raw data into reliable, useful, and business-ready information.
 
-I studied Business Information Systems at the Faculty of Commerce, Tanta University.
+My work combines data preparation, exploratory analysis, visualization, and business reporting. I'm also building my understanding of ETL/ELT workflows, data transformation, orchestration, and scalable data processing.
 
-**Focus areas:** Sales performance · Customer churn · Supply chain & delivery
+🎓 **Education:** Business Information Systems, Faculty of Commerce, Tanta University.
 
----
+### 🎯 Areas of Interest
 
-## Toolkit
-
-**Analysis**<br>
-![Python](https://img.shields.io/badge/Python-A8684A?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-A8684A?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-A8684A?style=flat-square&logo=numpy&logoColor=white)
-
-**Databases**<br>
-![SQL](https://img.shields.io/badge/SQL-A8684A?style=flat-square)
-
-**BI & Dashboards**<br>
-![Power BI](https://img.shields.io/badge/Power_BI-A8684A?style=flat-square&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-A8684A?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-A8684A?style=flat-square)
-![DAX](https://img.shields.io/badge/DAX-A8684A?style=flat-square)
-
-**Visualization**<br>
-![Plotly](https://img.shields.io/badge/Plotly_Dash-A8684A?style=flat-square&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-A8684A?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-A8684A?style=flat-square)
-
-**Data Collection**<br>
-![Web Scraping](https://img.shields.io/badge/BeautifulSoup_%C2%B7_Requests-A8684A?style=flat-square)
+- 📊 Data Analytics & Business Intelligence
+- 📦 Supply Chain & Operational Analytics
+- 👥 Customer Behavior & Churn Analysis
+- ⚙️ ETL/ELT Pipelines & Data Transformation
+- 🔄 Workflow Orchestration
+- ☁️ Cloud Data Engineering & Big Data
 
 ---
 
-## Featured Projects
+## 🧰 Technical Toolkit
 
-### Supply Chain Analytics
-*Where delivery performance becomes a measurable operational problem.*
+### 🐍 Programming & Data Analysis
 
-- **Data:** DataCo supply chain dataset, 180,000+ records (65K+ unique orders) covering sales, profit, shipping and delivery status.
-- **Approach:** Cleaned the data, ran EDA and sales and profit analysis, then built an interactive Plotly Dash dashboard.
-- **Result:** A **54.8% late-delivery rate** across **65,752 orders** ($36.78M sales, $3.97M profit), presented in a four-tab dashboard.
-- **Tools:** Python · Plotly Dash · EDA
-- **Links:** [Repository](https://github.com/YOUR-USERNAME/SUPPLY-CHAIN-REPO) · [Live dashboard](YOUR-DASHBOARD-URL) <!-- delete "Live dashboard" if none -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
 
-### Customer Churn Analysis
-*Who is leaving, what patterns accompany churn, and where retention risk concentrates.*
+### 🗄️ Databases & SQL
 
-- **Data:** Telecom customer dataset of 7,032 customers (contract type, payment method, revenue, lifetime value, churn status).
-- **Approach:** Exploratory analysis in Python and Pandas, segmenting churn by contract, payment method, reason and city.
-- **Result:** **22.3% churn rate**, **$2.48M lost revenue (CLTV)**, **12.7% high-risk customers**. Month-to-month contracts churn most (42.7%).
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+### 📊 Business Intelligence & Reporting
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power_Query-5B2C91?style=for-the-badge&logoColor=white" alt="Power Query"/>
+  <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logoColor=white" alt="DAX"/>
+</p>
+
+### 📈 Data Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+</p>
+
+### ⚙️ Data Engineering & Pipelines
+
+<p>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+  <img src="https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&logo=dagster&logoColor=white" alt="Dagster"/>
+</p>
+
+### 🐘 Big Data & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+</p>
+
+### 🌐 Data Collection
+
+<p>
+  <img src="https://img.shields.io/badge/BeautifulSoup-3B7A57?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup"/>
+  <img src="https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white" alt="Requests"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📦 01. Supply Chain Analytics
+
+*Turning delivery data into measurable operational insights.*
+
+Analyzed supply chain operations to understand delivery delays, sales performance, profitability, and shipping outcomes.
+
+- **Dataset:** DataCo supply chain dataset with 180,000+ records and 65K+ unique orders.
+- **Approach:** Data cleaning, exploratory data analysis, sales and profit analysis, and interactive dashboard development.
+- **Key Findings:** 54.8% late-delivery rate across 65,752 orders, with $36.78M in sales and $3.97M in profit.
+- **Deliverable:** Four interactive dashboard tabs built with Plotly Dash.
+- **Tools:** Python · Pandas · Plotly Dash · EDA
+
+🔗 **Explore the Project:** [GitHub Repository](https://github.com/YOUR-USERNAME/SUPPLY-CHAIN-REPO)
+
+---
+
+### 👥 02. Customer Churn Analysis
+
+*Understanding customer attrition and identifying patterns associated with churn.*
+
+Explored customer behavior to identify churn patterns across contracts, payment methods, churn reasons, and cities.
+
+- **Dataset:** Telecom customer data covering 7,032 customers.
+- **Approach:** Exploratory data analysis, customer segmentation, and churn analysis using Python and Pandas.
+- **Key Findings:** 22.3% churn rate, $2.48M in lost revenue (CLTV), and 12.7% high-risk customers. Month-to-month contracts had the highest reported churn rate at 42.7%.
 - **Tools:** Python · Pandas · EDA
-- **Link:** [Repository](https://github.com/YOUR-USERNAME/CHURN-REPO)
 
-### Sales Insights & Performance Analytics
-*A Power BI reporting system for sales, products, customers, branches and team performance.*
+🔗 **Explore the Project:** [GitHub Repository](https://github.com/YOUR-USERNAME/CHURN-REPO)
 
-- **Data:** 2024–2025 sales data across branches, product categories, customers and sales team targets.
-- **Approach:** Prepared data in Power Query, built DAX measures and four interactive report pages.
-- **Result:** An executive view of **82.62M net sales**, **12.73M profit**, **15.41% margin** and **4.32K orders**, with pages for products, branches and team performance.
+---
+
+### 💰 03. Sales Insights & Performance Analytics
+
+*An interactive reporting system for sales and business performance.*
+
+Developed a Power BI reporting solution to analyze sales, products, branches, customers, and sales team performance.
+
+- **Dataset:** Sales data covering 2024–2025.
+- **Approach:** Data preparation with Power Query, DAX measure development, and interactive report design.
+- **Key Metrics:** 82.62M net sales, 12.73M profit, 15.41% profit margin, and 4.32K orders.
+- **Deliverable:** Four interactive report pages covering sales, products, branches, and team performance.
 - **Tools:** Power BI · DAX · Power Query
-- **Link:** [Repository](https://github.com/YOUR-USERNAME/SALES-INSIGHTS-REPO)
+
+🔗 **Explore the Project:** [GitHub Repository](https://github.com/YOUR-USERNAME/SALES-INSIGHTS-REPO)
 
 ---
 
-## More Projects
+## 🗂️ More Projects
 
-| Project | Focus | Tools | Link |
-|---|---|---|---|
-| Excel Sales Performance | Sales vs. target dashboard across years, countries and product categories | Excel · Power Query | [Repository](https://github.com/YOUR-USERNAME/EXCEL-SALES-REPO) |
-| IMDb Top 250 Analysis | Web-scraped movie data explored to answer analytical questions | Python · BeautifulSoup · Pandas · Matplotlib | [Repository](https://github.com/YOUR-USERNAME/IMDB-REPO) |
-| Credit Card Default EDA | Exploratory analysis of patterns related to default behavior | Python · Pandas | Repository coming soon |
+| Project | Focus | Tools |
+|---|---|---|
+| 📊 Excel Sales Performance | Sales vs. targets across years, countries, and product categories | Excel · Power Query |
+| 🎬 IMDb Top 250 Analysis | Web scraping and exploratory analysis of movie data | Python · BeautifulSoup · Pandas · Matplotlib |
 
----
-
-## Training & Continuous Learning
-
-Data engineering training · Python & data analysis · SQL · Power BI · Excel · Machine learning fundamentals
+*More projects will be added as they are completed and documented.*
 
 ---
 
-## Get in Touch
+## ⚙️ Data Engineering Journey
 
-Have a dataset, a reporting problem, or a business question? I can help turn the data into an analysis or dashboard that makes the next decision easier to see.
+I'm expanding my skills beyond analytics and exploring how to build reliable, maintainable data pipelines.
 
-[LinkedIn](YOUR-LINKEDIN-URL) · [Portfolio](YOUR-PORTFOLIO-URL) · [Email](mailto:YOUR-EMAIL@gmail.com)
+My learning roadmap includes:
+
+- 🔄 **Orchestration:** Apache Airflow, Dagster
+- 🧱 **Data Transformation:** dbt
+- ⚡ **Distributed Processing:** Apache Spark
+- 🐘 **Big Data Ecosystem:** Hadoop
+- ☁️ **Cloud Platforms:** Microsoft Azure
+- 🗄️ **Data Storage & Querying:** SQL and relational databases
+
+These technologies represent my learning interests and development roadmap. I'll highlight practical implementations as I build and document data engineering projects.
+
+---
+
+## 🌱 Continuous Learning
+
+I'm developing my skills through hands-on projects and structured learning in:
+
+- 📊 Data Analysis & Business Intelligence
+- 🐍 Python & SQL
+- ⚙️ ETL/ELT and Data Pipeline Development
+- 🔄 Workflow Orchestration
+- ☁️ Cloud Data Engineering Fundamentals
+- ⚡ Big Data Processing Fundamentals
+
+---
+
+## 🤝 Let's Connect!
+
+Have a dataset to explore, a reporting challenge, or a data workflow to build?
+
+I'm interested in transforming data into clear insights and developing reliable solutions to real-world data problems.
+
+<p align="center">
+  <a href="YOUR-LINKEDIN-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="YOUR-PORTFOLIO-URL">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<div align="center">
+
+✨ *From business questions to data insights and reliable pipelines.* ✨
+
+</div>
+```
 
