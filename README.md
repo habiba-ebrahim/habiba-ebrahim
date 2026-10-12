@@ -11,13 +11,13 @@
 
 <br>
 
-<a href="YOUR-LINKEDIN-URL">
+<a href="in/habiba-ebrahim-47a894305">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="YOUR-PORTFOLIO-URL">
+<a href=https://habiba-insights.lovable.app">
   <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="ehabiba145@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -200,13 +200,13 @@ Have a dataset to explore, a reporting challenge, or a data workflow to build?
 I'm interested in transforming data into clear insights and developing reliable solutions to real-world data problems.
 
 <p align="center">
-  <a href="YOUR-LINKEDIN-URL">
+  <a href="in/habiba-ebrahim-47a894305">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR-PORTFOLIO-URL">
+  <a href="https://habiba-insights.lovable.app">
     <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="ehabiba145@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
