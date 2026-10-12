@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Habiba Ebrahim 👋
+# Habiba Ebrahim
 
 ### Data Analyst | Aspiring Data Engineer
 
